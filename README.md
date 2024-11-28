@@ -73,6 +73,8 @@ VITE_SERVER_URL=https://<your_api_key>.mockapi.io
 
 - Replace `<your_api_key>` with the actual API key you are using for your mock API.
 
+P.S: env is not ignored in this project due assignment as the HR reviewer will face issue in making tables in mockapi.io otherwise I professionally do not add .env files for safety and security. I hope you understand. Thanks.
+
 ### 5. Start the Development Server
 To run the application locally, start the development server:
 
